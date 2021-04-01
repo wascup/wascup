@@ -1,2 +1,2 @@
-Wascup
-An app that shows what streamer you are watching on Twitch
+# Wascup
+Idk I make things useful to me. Maybe it will be useful to you :)
